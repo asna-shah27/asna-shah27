@@ -1,4 +1,4 @@
-![Banner](https://github.com/Sujaltyagi09/Sujaltyagi09/blob/main/banner.png)
+![Banner](https://github.com/asna-shah27/asna-shah27/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Asna Shah</h1>
 <h3 align="center">Aspiring Data Analyst | Data-Driven Problem Solver</h3>
 
