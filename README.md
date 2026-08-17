@@ -9,7 +9,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 💬 Ask me about **Python, SQL, Excel, Power BI, Data Cleaning, EDA, Dashboards**
 
-- 📫 How to reach me **sujaltyagi906@gmail.com**
+- 📫 How to reach me **asnashah27104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,12 +17,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="LinkedIn" height="30" width="40" />
-  </a>
-
-  <a href="https://fb.com/asna shah" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-         alt="Facebook" height="30" width="40" />
   </a>
 
   <a href="https://instagram.com/_.asnashah" target="_blank">
