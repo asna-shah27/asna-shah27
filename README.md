@@ -8,12 +8,11 @@
 
 <img align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- 🌱 Currently learning **Python | SQL & Advanced SQL | Power BI | Tableau | Statistics & Probability | Machine Learning**
 
-- 🌱 I’m currently learning **Python | SQL & Advanced Queries | Power BI / Tableau | Statistics & Probability | Machine Learning Basics**
+- 💬 Interested in **Python, SQL, Excel, Power BI, Data Cleaning, EDA & Data Visualization**
 
-- 💬 Ask me about **Python, SQL, Excel, Power BI, Data Cleaning, EDA, Dashboards**
-
-- 📫 How to reach me **asnashah27104@gmail.com**
+- 📫 Reach me at **asnashah27104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
